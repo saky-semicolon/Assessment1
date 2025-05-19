@@ -1,7 +1,7 @@
 
-# 📊 Table Output & Processing Project
+# 📊 Table Output & Processing
 
-This project displays a dataset in its original format (Table 1) and calculates new values (Table 2) based on specific formulas. It is built with **HTML**, **CSS**, and **JavaScript**, and is suitable for deployment on platforms like **Netlify**, **Vercel**, or **Heroku**.
+This work displays a dataset in its original format (Table 1) and calculates new values (Table 2) based on specific formulas. It is built with **HTML**, **CSS**, and **JavaScript**, and is deployed on **Vercel**.
 
 ## 📁 Files Included
 
@@ -20,12 +20,4 @@ Values in **Table 2** are calculated from **Table 1** as follows:
 | Charlie  | A13 × A12     | 90 × 3 = 270 |
 
 
-## 🌐 Deploying on Vercel
-
-### Step-by-Step
-
-1. Push this project to a GitHub repository.
-2. Go to [https://vercel.com](https://vercel.com) and sign in.
-3. Click **“Add New Project”**, and import your GitHub repo.
-4. Let Vercel detect it as a static site and click **Deploy**.
-```
+## 🌐 https://assessment1-ten.vercel.app/
